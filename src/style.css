@@ -1,1 +1,16 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: green;
+}
+.card {
+  background-color: white;
+  width: 50px;
+
+  margin-top: 250px;
+  margin: auto;
+}
+.number {
+  text-align: center;
+}
+.bottom {
+  text-align: end;
+}
